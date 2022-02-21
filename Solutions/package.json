@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/intersystems/quickstarts-nodejs#readme",
   "dependencies": {
-    "intersystems-iris-native": "file:intersystems-iris-native"
+    "file-system": "^2.2.2",
+    "intersystems-iris-native": "file:intersystems-iris-native",
+    "readline-sync": "^1.4.10"
   }
 }
